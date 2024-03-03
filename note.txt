@@ -1,0 +1,2 @@
+it takes too long to success because data tabe name in my php file is not same to MySQL table name.
+(User table)
